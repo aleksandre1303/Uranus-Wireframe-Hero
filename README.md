@@ -14,7 +14,8 @@ and learned how to animate different elements when hovering over them
 
 ### Screenshot
 
-<img width="1423" alt="Screenshot 2022-12-06 at 12 33 52" src="https://user-images.githubusercontent.com/67371847/205864592-d69e048d-bd6f-400f-af40-b6fbe3c87c7e.png">
+<img width="1400" alt="Hero Element 4" src="https://user-images.githubusercontent.com/67371847/205868889-df616f95-55fb-4cff-91b3-65f236b34e0b.png">
+
 
 
 ### Links
