@@ -128,37 +128,6 @@ body {
   transform: translateY(-0.5rem);
 }
 
-.feature {
-  margin: 95px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.feature__inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.feature__col-1,
-.feature__col-2,
-.feature__col-3 {
-  max-width: 315px;
-}
-
-.title__col-1 {
-  font-weight: 700;
-  font-size: 20px;
-  color: #ffffff;
-}
-
-.subtitle__col-1 {
-  font-weight: 400;
-  font-size: 16px;
-  color: #d0d4ea;
-}
-
 @media (max-width: 1195px) {
   .container {
     width: 90%;
